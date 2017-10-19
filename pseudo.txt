@@ -6,14 +6,15 @@ Each player plays the top card from their deck at the same time and the player w
 If the cards have the same value, each player places down three cards face down and one card face up. 
 The player with the higher card gets all of the played cards played that turn.
 If the cards are the same again, repeat the process until the cards are different.
+int playercardcount//tells the count of player cards
 
 TURNS
 Take out Jokers.
 Shuffle cards.
-Give each player (1/number of players playing) of the deck.
+Give each player (52/# of Players) of the deck.
 Ace is the highest valued card.
 2 is the lowest valued card.
-While more than 1 player has more than 0 cards in their deck:
+While(PlayerCardCount>0):
   All players place the top card of their deck into the middle area.
   If a single player has a card greater than any other player:
     Then the player with the highest valued card takes all of the cards in the middle and puts them at the bottom of his deck.
