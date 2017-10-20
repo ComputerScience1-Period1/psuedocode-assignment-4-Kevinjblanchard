@@ -9,6 +9,7 @@ The player with the higher card gets all of the played cards played that turn.
 If the cards are the same again, repeat the process until the cards are different.
 
 TURNS
+
   Remove jokers from the deck.
   Shuffle the deck.
   Give each player an equal fraction of the deck.
