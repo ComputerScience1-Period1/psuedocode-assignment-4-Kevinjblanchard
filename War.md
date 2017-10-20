@@ -9,18 +9,18 @@ The player with the higher card gets all of the played cards played that turn.
 If the cards are the same again, repeat the process until the cards are different.
 
 TURNS
-Remove jokers from the deck.
-Shuffle the deck.
-Give each player an equal fraction of the deck.
-Ace is the highest valued card.
-2 is the lowest valued card.
-All cards in between are valued in chronological order from 2 to ace.
-While more than 1 player has more than 0 cards in their deck:
-  All players place the top card of their deck into the middle area.
-  If a single player has a card greater than any other player:
-    Then the player with the highest valued card takes all of the cards in the middle and puts them at the bottom of his deck.
-  While 2 or more players played equal valued cards into the middle that were valued higher than any other card played:
-    Then each player who played an equal valued card places three cards face down and one card face up into the middle.
+  Remove jokers from the deck.
+  Shuffle the deck.
+  Give each player an equal fraction of the deck.
+  Ace is the highest valued card.
+  2 is the lowest valued card.
+  All cards in between are valued in chronological order from 2 to ace.
+  While more than 1 player has more than 0 cards in their deck:
+    All players place the top card of their deck into the middle area.
     If a single player has a card greater than any other player:
+      Then the player with the highest valued card takes all of the cards in the middle and puts them at the bottom of his deck.
+    While 2 or more players played equal valued cards into the middle that were valued higher than any other card played:
+      Then each player who played an equal valued card places three cards face down and one card face up into the middle.
+      If a single player has a card greater than any other player:
       Then they take all cards played during battle.
-The player with all 52 cards wins. 
+  The player with all 52 cards wins. 
