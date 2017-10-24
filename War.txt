@@ -23,4 +23,4 @@ While more than 1 player has more than 0 cards in their deck:
     Each player who played an equal valued card places three cards face down and one card face up into the middle.
     If a single player has a card greater than any other player:
       Then they take all cards played during battle.
-The player with all 52 cards wins. 
+The player with all 52 cards at the end wins. 
